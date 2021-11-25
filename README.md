@@ -1,2 +1,3 @@
 # odin-recipes
-building a basic recipe website
+goal: to build a basic recipe website
+skills demonstrated:
